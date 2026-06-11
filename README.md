@@ -1,5 +1,5 @@
 # Добрый день! Меня зовут Вера
-<h3>Здесь собраны мои ученические работы AQA python и QA manual.</h3>
+<h3>Здесь собраны мои ученические работы AQA python.</h3>
 
 ## 🛠 Знания и навыки
 
@@ -37,10 +37,6 @@
   * [Спринт 11_2: Проектный месяц](https://github.com/domovenok-kva/Sprint_m)
 * Кроссбраузерное тестирование веб-приложения.
   * [Дипломный проект 3](https://github.com/domovenok-kva/Diplom_3)
-
-## 🔗 Примеры работ Manual
-
-[QA-Manual](https://github.com/domovenok-kva/QA-Manual)
 
 ## 🔗 Задачи на Leetcode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/domovenokkva?theme=nord)](https://leetcode.com/domovenokkva)
